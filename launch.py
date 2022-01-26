@@ -36,7 +36,7 @@ while True:
         print("\n")
         os.system("git clone https://github.com/yatharthgeek/msfvenom-automation")
         os.system("cd msfvenom-automation")
-        os.system("python3 msfvenom-automation.py")
+        os.system("python3 msfvenom automation.py")
 
     if bash == 4  :
         break
